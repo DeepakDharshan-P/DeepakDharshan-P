@@ -12,7 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=DeepakDharshan-P&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepakDharshan-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DeepakDharshan-P&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-[![](https://komarev.com/ghpvc/?username=DeepakDharshan-P&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=DeepakDharshan-P&icon=2&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
